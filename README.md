@@ -1,4 +1,4 @@
-# 🐍 Python Special Methods (Dunder Methods)
+#  Python Special Methods (Dunder Methods)
 
 A hands-on reference and example repo covering Python's **special methods** (also called **magic methods** or **dunder methods** — short for "double underscore"). These methods let your custom classes hook into built-in Python syntax and behavior: `+`, `len()`, `print()`, `[]`, `in`, `()`, `for`, `if`, and more.
 
@@ -271,12 +271,3 @@ del c  # Closing connection: db1
 | 11 | `__bool__` | `if obj:` |
 | 12 | `__del__` | garbage collection |
 
----
-
-## 🤝 Contributing
-
-Contributions, corrections, and additional examples are welcome — open an issue or submit a PR.
-
-## 📄 License
-
-MIT
